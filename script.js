@@ -26,7 +26,7 @@ document.querySelectorAll('section').forEach(section => {
 });
 
 // Typing effect on hero
-const text = "Aspiring Software Developer | BCA Student";
+const text = "Aspiring Software Developer | MCA Student";
 const el = document.querySelector('#hero p');
 el.textContent = '';
 let i = 0;
